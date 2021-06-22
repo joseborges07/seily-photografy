@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Pattaya', sans-serif;
+   
+}
+.seily_navbar{
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    
+}
+.seily_navbar div, .seily_navbar ul{
+    background-color: transparent;
+}
+.container{
+    padding: 20px;
+    margin-top: 20px;
+}
+.seily_cont_footer{
+   
+    background-color: rgba(1, 1, 1, 0.7);
+    padding: 10%;
+    margin-top: 100px;
+    color: #fff;
+}
+.seily_cont_footer a{
+    color: #fff;
+    text-decoration: none;
+    display:block;
+}
+.col-md-1{
+    display: flex;
+}
+.col-md-4{
+    margin: 5px;
+    padding: 25px;
+}
+.col-md-5{
+    margin: 5px;
+    padding: 25px;
+}
+.tex-center{
+    text-align: center;
+    padding: 20px;
+}
+.Galery img:hover{
+    border: 5px solid white;
+    
+
+}
+.col-lg-4{
+    padding: 20px;
+    margin: 0 !important;
+}
+.Evento{
+    padding: 20px;
+    margin: 40px;
+}
+.Pcontainer{
+    display: flex;
+    text-align: center;
+    
+}
+
+.container3{
+    padding: 5%;
+    margin:5%;
+}
